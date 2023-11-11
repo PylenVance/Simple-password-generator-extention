@@ -1,0 +1,10 @@
+{
+  "manifest_version": 2,
+  "name": "Password generator by lesik",
+  "version": "1.0",
+  "description": "Simple Password generator",
+  "permissions": ["activeTab"],
+  "browser_action": {
+    "default_popup": "popup.html"
+  }
+}
